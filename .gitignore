@@ -1,0 +1,32 @@
+# Arquivos compilados
+*.class
+bin/
+
+# Banco de dados (será criado automaticamente)
+*.db
+paises.db
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Maven
+target/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Bibliotecas (especificar no README como baixar)
+# Opção 1: Ignorar libs (usuário baixa com script)
+lib/
+
+# Opção 2: Incluir libs no repo (descomente a linha abaixo)
+# !lib/*.jar
